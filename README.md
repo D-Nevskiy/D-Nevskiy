@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="https://i.ibb.co/pz6dv7t/Colorful-Blue-and-Purple-Animated-You-Tube-Outro-1-1.gif">
-</p>
+![screen-gif](https://i.ibb.co/pz6dv7t/Colorful-Blue-and-Purple-Animated-You-Tube-Outro-1-1.gif)
+
 
 <h2 align="center">
 I am a beginner Python developer striving to expand my skills and experience in programming💻
