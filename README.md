@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co/pz6dv7t/Colorful-Blue-and-Purple-Animated-You-Tube-Outro-1-1.gif"></a>
+    <img src="https://i.ibb.co/pz6dv7t/Colorful-Blue-and-Purple-Animated-You-Tube-Outro-1-1.gif">
 </p>
-Hi there, I'm Danya! 👋
-</h3>
 
 <h2 align="center">
 I am a beginner Python developer striving to expand my skills and experience in programming💻
