@@ -13,7 +13,7 @@ I am eager to apply my skills in real-world projects and collaborate with a team
 <h3 align="center">
 🤝 Connect with me:
 </h3> 
- 
+
 <p align="center">
 <a href="https://t.me/dnevskiy"><img align="center" src="https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://career.habr.com/d_nevskiy"><img align="center" src="https://sun9-70.userapi.com/impg/c855020/v855020230/19f87a/xPnxD7UaazE.jpg?size=480x480&quality=96&sign=ca5dc0b29cfcb2c238302a6edfea1948&type=album" alt="Yu Shi | Instagram" width="21px"/></a>
@@ -25,9 +25,9 @@ I am eager to apply my skills in real-world projects and collaborate with a team
 
 <h3 align="center">
  💼 Technical Skills
-  
-  
-  
+
+
+
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=61DAFB)
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&color=764ABC)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=Postgresql&color=F7DF1E)
@@ -40,15 +40,20 @@ I am eager to apply my skills in real-world projects and collaborate with a team
 </h3>
 
 <h3 align="center">
-  
+
 📝 Educational projects
-  
+
  </h3> 
- 
+
 
 <h5 align="center">
-  
- 📌 [Social network Yatube](https://github.com/D-Nevskiy/yatube_final)
+
+
+📌 [StreetRussia](https://github.com/D-Nevskiy/StreetsRussia)
+
+📌 [CareerHub](https://github.com/D-Nevskiy/CareerHub)
+
+📌 [Social network Yatube](https://github.com/D-Nevskiy/yatube_final)
 
 📌 [REST API for social network](https://github.com/D-Nevskiy/api_for_yatube_final)
 
@@ -59,8 +64,8 @@ I am eager to apply my skills in real-world projects and collaborate with a team
 </h5>
 
 <h3 align="center">
-  
-📈 GitHub Stats 
+
+📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Nevskiy&layout=compact)](https://github.com/D-Nevskiy)
 </h3>
